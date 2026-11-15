@@ -1,0 +1,10 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Suggestion or idea
+    url: https://github.com/naxce/ViewDoctor/discussions/new?category=ideas
+    about: Share ideas for new minigames, treatments or changes in Discussions.
+  - name: Question
+    url: https://github.com/naxce/ViewDoctor/discussions/new?category=q-a
+    about: Ask how something works in Discussions.
+  - name: Steam Workshop page
+    url: https://steamcommunity.com/sharedfiles/filedetails/?id=3838091936

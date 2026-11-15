@@ -12,6 +12,13 @@ description=Currently, it only contains wound patching overhaul.
 description=Expect bugs, errors, compatibility and performance issues, missing content, placeholders and major changes.
 description=Feedback, suggestions and bug reports are always welcome!
 description=
+description=[h2]🛠️ Open Source on GitHub[/h2]
+description=[table noborder=1]
+description=[tr][td][b][url=https://github.com/naxce/ViewDoctor]Source Code[/url][/b][/td][td]Read it, fork it, edit it. Free for non-commercial use (CC BY-NC 4.0).[/td][/tr]
+description=[tr][td][b][url=https://github.com/naxce/ViewDoctor/issues/new/choose]Report a Bug[/url][/b][/td][td]Open an issue and attach your console.txt.[/td][/tr]
+description=[tr][td][b][url=https://github.com/naxce/ViewDoctor/discussions/categories/ideas]Suggest an Idea[/url][/b][/td][td]Share it in Discussions, or send a pull request.[/td][/tr]
+description=[/table]
+description=
 description=[h2]Check Out My Other Mods![/h2]
 description=
 description=[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3804018053][img]https://i.imgur.com/7Y3DPM6.png[/img][/url]
@@ -83,6 +90,6 @@ description=[/list]
 description=
 description=[b]Languages:[/b] English, Polski, Deutsch, Francais, Espanol, Portugues (BR), Русский.
 description=
-description=[i]Safe to add to an existing save, and safe to remove. It stores only a small per-character record of treatment quality. Contains no code or files from Project Viewpoint. Java source is in the "source" folder.[/i]
+description=[i]Safe to add to an existing save, and safe to remove. It stores only a small per-character record of treatment quality. Contains no code or files from Project Viewpoint. Java source is in the "source" folder and on [url=https://github.com/naxce/ViewDoctor]GitHub[/url].[/i]
 tags=Build 42;Interface;Misc;Realistic;WIP
 visibility=public

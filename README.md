@@ -6,7 +6,7 @@ Patching yourself up is no longer a progress bar. Your character lifts the hurt 
 
 **[Get it on the Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3838091936)**
 
-> **Work in progress.** The mod is in early development. Expect bugs, missing content and big changes. Bug reports and ideas are welcome in the [issues](../../issues).
+> **Work in progress.** The mod is in early development. Expect bugs, missing content and big changes. Bug reports and ideas are welcome, see [Feedback](#feedback).
 
 <p align="center"><img src="preview.gif" alt="ViewDoctor preview" width="256"></p>
 
@@ -101,6 +101,12 @@ for t in tests/test_*.lua; do lua5.1 "$t" Contents/mods/ViewDoctor/42/media/lua;
 ```
 
 `build.sh` also runs `tests/ReachTest.java` against the built classes.
+
+## Feedback
+
+- **Bugs:** open an [issue](https://github.com/naxce/ViewDoctor/issues/new/choose) with the bug report form. Attach your `console.txt`.
+- **Suggestions:** post them in [Discussions → Ideas](https://github.com/naxce/ViewDoctor/discussions/categories/ideas).
+- **Code:** pull requests are welcome. Say what you changed and how you tested it.
 
 ## License
 

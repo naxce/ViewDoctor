@@ -1,0 +1,20 @@
+title: "[Idea] "
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Your idea
+      description: What should ViewDoctor do, and how would it play?
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why
+      description: What would it add or fix?
+  - type: checkboxes
+    id: pr
+    attributes:
+      label: Code
+      options:
+        - label: I would like to send a pull request for this

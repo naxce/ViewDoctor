@@ -1,0 +1,65 @@
+name: Bug report
+description: Something in ViewDoctor is broken or behaves wrong.
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened
+      description: What went wrong, and what you expected instead.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How to make it happen
+      description: The treatment, the body part, and what you did.
+      placeholder: |
+        1. Get a deep wound on the left forearm
+        2. Stitch it in first person
+        3. ...
+    validations:
+      required: true
+  - type: dropdown
+    id: view
+    attributes:
+      label: Camera
+      options:
+        - First person (Project Viewpoint)
+        - Third person (Project Viewpoint)
+        - Isometric
+        - In a vehicle
+    validations:
+      required: true
+  - type: dropdown
+    id: mode
+    attributes:
+      label: Game mode
+      options:
+        - Singleplayer
+        - Multiplayer (host)
+        - Multiplayer (client)
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Game version
+      placeholder: "42.22.2"
+    validations:
+      required: true
+  - type: textarea
+    id: mods
+    attributes:
+      label: Other mods
+      description: Health, camera and animation mods matter most (Viewpoint, The Only Cure, EHR, Fancy/Brutal Handwork).
+  - type: textarea
+    id: log
+    attributes:
+      label: console.txt
+      description: Attach `~/Zomboid/console.txt` (Windows `C:\Users\<you>\Zomboid\console.txt`) from the session where it happened, or paste the error lines.
+      render: text
+  - type: textarea
+    id: media
+    attributes:
+      label: Screenshots or video
