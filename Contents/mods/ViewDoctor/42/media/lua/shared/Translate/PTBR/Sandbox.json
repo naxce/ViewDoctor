@@ -1,0 +1,20 @@
+{
+    "Sandbox_ViewDoctor": "ViewDoctor | Health Overhaul for Project Zomboid/Viewpoint",
+    "Sandbox_ViewDoctor_Enabled": "Minijogos de cura",
+    "Sandbox_ViewDoctor_Enabled_tooltip": "Tratar um ferimento começa um minijogo. Desative para usar as ações normais.",
+    "Sandbox_ViewDoctor_Difficulty": "Dificuldade",
+    "Sandbox_ViewDoctor_Difficulty_tooltip": "O tamanho dos alvos. A habilidade de Primeiros Socorros facilita cada nível.",
+    "Sandbox_ViewDoctor_TimeLimit": "Tempo limite do minijogo (segundos)",
+    "Sandbox_ViewDoctor_TimeLimit_tooltip": "Quanto tempo você tem antes de o minijogo acabar com o que conseguiu. Serrar e suturar ganham 30%% a mais.",
+    "Sandbox_ViewDoctor_QualityEffects": "Qualidade importa",
+    "Sandbox_ViewDoctor_QualityEffects_tooltip": "Um trabalho limpo dói menos, cura mais rápido, estanca o sangramento e raramente infecciona. Um trabalho malfeito dói mais, cura mais devagar, pode continuar sangrando, infecciona com frequência e pode deixar vidro ou uma bala no ferimento.",
+    "Sandbox_ViewDoctor_BotchPenalty": "Errar dói",
+    "Sandbox_ViewDoctor_BotchPenalty_tooltip": "Um minijogo estragado cancela o tratamento, aumenta a dor e pode reabrir o sangramento.",
+    "Sandbox_ViewDoctor_InstantOnServer": "Tratamento instantâneo em servidores",
+    "Sandbox_ViewDoctor_InstantOnServer_tooltip": "Apenas multijogador. Desligado: depois do minijogo o tempo normal do tratamento ainda passa. Ligado: o tratamento termina no momento em que o minijogo termina. Arriscado: o servidor confia no jogo de cada jogador, então um cliente modificado poderia pular os tempos de tratamento. No modo solo é sempre instantâneo.",
+    "Sandbox_ViewDoctor_Undress": "Despir a parte tratada",
+    "Sandbox_ViewDoctor_Undress_tooltip": "Antes de se tratar, seu personagem tira a roupa que cobre o ferimento e a veste de novo depois.",
+    "Sandbox_ViewDoctor_Difficulty_option1": "Fácil",
+    "Sandbox_ViewDoctor_Difficulty_option2": "Normal",
+    "Sandbox_ViewDoctor_Difficulty_option3": "Difícil"
+}

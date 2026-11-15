@@ -1,0 +1,20 @@
+{
+    "Sandbox_ViewDoctor": "ViewDoctor | Health Overhaul for Project Zomboid/Viewpoint",
+    "Sandbox_ViewDoctor_Enabled": "Healing Minigames",
+    "Sandbox_ViewDoctor_Enabled_tooltip": "Treating wounds starts a minigame first. Turn off to use the vanilla actions.",
+    "Sandbox_ViewDoctor_Difficulty": "Difficulty",
+    "Sandbox_ViewDoctor_Difficulty_tooltip": "How small the targets are. First Aid skill makes every level easier.",
+    "Sandbox_ViewDoctor_TimeLimit": "Minigame Time Limit (seconds)",
+    "Sandbox_ViewDoctor_TimeLimit_tooltip": "How long you get before the minigame ends with whatever you managed. Sawing and stitching get 30%% more.",
+    "Sandbox_ViewDoctor_QualityEffects": "Quality Matters",
+    "Sandbox_ViewDoctor_QualityEffects_tooltip": "Clean work hurts less, heals faster, stops bleeding and rarely infects. Sloppy work hurts more, heals slower, can keep bleeding, often infects and can leave glass or a bullet behind.",
+    "Sandbox_ViewDoctor_BotchPenalty": "Botching Hurts",
+    "Sandbox_ViewDoctor_BotchPenalty_tooltip": "A botched minigame cancels the treatment, adds pain and can reopen bleeding.",
+    "Sandbox_ViewDoctor_InstantOnServer": "Instant Treatment on Servers",
+    "Sandbox_ViewDoctor_InstantOnServer_tooltip": "Multiplayer only. Off: after the minigame the normal treatment time still plays. On: the treatment finishes the moment the minigame does. Risky: the server trusts each player's game, so a modified client could skip treatment times. Single player is always instant.",
+    "Sandbox_ViewDoctor_Undress": "Undress the Treated Part",
+    "Sandbox_ViewDoctor_Undress_tooltip": "Before treating yourself, your character takes off clothing that covers the wound and puts it back on afterwards.",
+    "Sandbox_ViewDoctor_Difficulty_option1": "Easy",
+    "Sandbox_ViewDoctor_Difficulty_option2": "Normal",
+    "Sandbox_ViewDoctor_Difficulty_option3": "Hard"
+}

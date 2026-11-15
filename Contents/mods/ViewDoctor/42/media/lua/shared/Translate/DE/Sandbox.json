@@ -1,0 +1,20 @@
+{
+    "Sandbox_ViewDoctor": "ViewDoctor | Health Overhaul for Project Zomboid/Viewpoint",
+    "Sandbox_ViewDoctor_Enabled": "Heil-Minispiele",
+    "Sandbox_ViewDoctor_Enabled_tooltip": "Wundbehandlung startet zuerst ein Minispiel. Aus, um die normalen Aktionen zu nutzen.",
+    "Sandbox_ViewDoctor_Difficulty": "Schwierigkeit",
+    "Sandbox_ViewDoctor_Difficulty_tooltip": "Wie klein die Ziele sind. Erste-Hilfe-Fertigkeit macht jede Stufe leichter.",
+    "Sandbox_ViewDoctor_TimeLimit": "Zeitlimit des Minispiels (Sekunden)",
+    "Sandbox_ViewDoctor_TimeLimit_tooltip": "Wie lange du hast, bevor das Minispiel mit dem bisher Geschafften endet. Sägen und Nähen bekommen 30%% mehr.",
+    "Sandbox_ViewDoctor_QualityEffects": "Qualität zählt",
+    "Sandbox_ViewDoctor_QualityEffects_tooltip": "Saubere Arbeit tut weniger weh, heilt schneller, stoppt Blutungen und entzündet sich selten. Schlampige Arbeit tut mehr weh, heilt langsamer, kann weiterbluten, entzündet sich oft und kann Glas oder eine Kugel in der Wunde lassen.",
+    "Sandbox_ViewDoctor_BotchPenalty": "Pfusch tut weh",
+    "Sandbox_ViewDoctor_BotchPenalty_tooltip": "Ein verpfuschtes Minispiel bricht die Behandlung ab, verursacht Schmerz und kann die Blutung wieder öffnen.",
+    "Sandbox_ViewDoctor_InstantOnServer": "Sofortige Behandlung auf Servern",
+    "Sandbox_ViewDoctor_InstantOnServer_tooltip": "Nur im Mehrspielermodus. Aus: Nach dem Minispiel läuft weiterhin die normale Behandlungszeit. An: Die Behandlung ist in dem Moment fertig, in dem das Minispiel endet. Riskant: Der Server vertraut dem Spiel jedes Spielers, ein veränderter Client könnte also Behandlungszeiten überspringen. Im Einzelspieler ist die Behandlung immer sofort fertig.",
+    "Sandbox_ViewDoctor_Undress": "Behandelte Körperstelle freimachen",
+    "Sandbox_ViewDoctor_Undress_tooltip": "Bevor du dich selbst behandelst, zieht deine Figur Kleidung aus, die die Wunde bedeckt, und zieht sie danach wieder an.",
+    "Sandbox_ViewDoctor_Difficulty_option1": "Leicht",
+    "Sandbox_ViewDoctor_Difficulty_option2": "Normal",
+    "Sandbox_ViewDoctor_Difficulty_option3": "Schwer"
+}

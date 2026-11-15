@@ -1,0 +1,20 @@
+{
+    "Sandbox_ViewDoctor": "ViewDoctor | Health Overhaul for Project Zomboid/Viewpoint",
+    "Sandbox_ViewDoctor_Enabled": "Minigry leczenia",
+    "Sandbox_ViewDoctor_Enabled_tooltip": "Leczenie ran najpierw uruchamia minigrę. Wyłącz, aby używać zwykłych akcji.",
+    "Sandbox_ViewDoctor_Difficulty": "Trudność",
+    "Sandbox_ViewDoctor_Difficulty_tooltip": "Jak małe są cele. Umiejętność Pierwszej pomocy ułatwia każdy poziom.",
+    "Sandbox_ViewDoctor_TimeLimit": "Limit czasu minigry (sekundy)",
+    "Sandbox_ViewDoctor_TimeLimit_tooltip": "Ile masz czasu, zanim minigra zakończy się z tym, co udało się zrobić. Piłowanie i szycie dostają 30%% więcej.",
+    "Sandbox_ViewDoctor_QualityEffects": "Jakość ma znaczenie",
+    "Sandbox_ViewDoctor_QualityEffects_tooltip": "Staranna robota mniej boli, szybciej się goi, zatrzymuje krwawienie i rzadko powoduje zakażenie. Niedbała robota bardziej boli, wolniej się goi, może nie zatrzymać krwawienia, często powoduje zakażenie i może zostawić w ranie szkło albo kulę.",
+    "Sandbox_ViewDoctor_BotchPenalty": "Partactwo boli",
+    "Sandbox_ViewDoctor_BotchPenalty_tooltip": "Spartaczona minigra przerywa leczenie, dodaje bólu i może otworzyć krwawienie.",
+    "Sandbox_ViewDoctor_InstantOnServer": "Natychmiastowe leczenie na serwerach",
+    "Sandbox_ViewDoctor_InstantOnServer_tooltip": "Tylko w trybie wieloosobowym. Wyłączone: po minigrze nadal trwa zwykły czas leczenia. Włączone: leczenie kończy się w chwili, gdy kończy się minigra. Ryzykowne: serwer ufa grze każdego gracza, więc zmodyfikowany klient mógłby pomijać czas leczenia. W grze jednoosobowej leczenie jest zawsze natychmiastowe.",
+    "Sandbox_ViewDoctor_Undress": "Rozbieraj leczoną część ciała",
+    "Sandbox_ViewDoctor_Undress_tooltip": "Przed leczeniem samego siebie postać zdejmuje ubranie zakrywające ranę, a po zabiegu zakłada je z powrotem.",
+    "Sandbox_ViewDoctor_Difficulty_option1": "Łatwy",
+    "Sandbox_ViewDoctor_Difficulty_option2": "Normalny",
+    "Sandbox_ViewDoctor_Difficulty_option3": "Trudny"
+}

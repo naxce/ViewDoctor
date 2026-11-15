@@ -1,0 +1,13 @@
+name=ViewDoctor | Health Overhaul for Project Zomboid/Viewpoint
+id=ViewDoctor
+description=Healing minigames for Project Viewpoint. Stitching, bandaging, disinfecting, splinting, pulling out glass and bullets, injections, and The Only Cure's amputation, cauterizing and wound cleaning each become a mouse minigame. In first person your character raises the treated limb into view and the wound and tools are 3D models on it; in isometric view the game is drawn on a flat limb. Clothing over the wound comes off first and goes back on after. Works with Extensive Health Rework Evolved, The Only Cure and Fancy/Brutal Handwork.
+author=naxce
+modversion=1.0
+versionMin=42.21
+poster=poster.png
+icon=icon.png
+require=\ZombieBuddy
+loadModAfter=\Viewpoint,\ZombieBuddy,\TheOnlyCure,\ExtensiveHealthReworkEvolved,\TOCEHRCompat,\FancyHandworkB42_19,\BrutalHandwork,\TOCRightClickFix
+javaJarFile=media/java/client/ViewDoctor.jar
+javaPkgName=viewdoctor
+ZBVersionMin=2.3.0

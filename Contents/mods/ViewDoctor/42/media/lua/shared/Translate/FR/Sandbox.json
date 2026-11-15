@@ -1,0 +1,20 @@
+{
+    "Sandbox_ViewDoctor": "ViewDoctor | Health Overhaul for Project Zomboid/Viewpoint",
+    "Sandbox_ViewDoctor_Enabled": "Mini-jeux de soin",
+    "Sandbox_ViewDoctor_Enabled_tooltip": "Soigner une plaie lance d'abord un mini-jeu. Désactive pour les actions normales.",
+    "Sandbox_ViewDoctor_Difficulty": "Difficulté",
+    "Sandbox_ViewDoctor_Difficulty_tooltip": "La taille des cibles. La compétence Premiers soins facilite chaque niveau.",
+    "Sandbox_ViewDoctor_TimeLimit": "Temps limite du mini-jeu (secondes)",
+    "Sandbox_ViewDoctor_TimeLimit_tooltip": "Le temps avant que le mini-jeu se termine avec ce que tu as fait. Scier et recoudre ont 30%% de plus.",
+    "Sandbox_ViewDoctor_QualityEffects": "La qualité compte",
+    "Sandbox_ViewDoctor_QualityEffects_tooltip": "Un travail propre fait moins mal, guérit plus vite, arrête le saignement et s'infecte rarement. Un travail bâclé fait plus mal, guérit plus lentement, peut continuer à saigner, s'infecte souvent et peut laisser du verre ou une balle dans la plaie.",
+    "Sandbox_ViewDoctor_BotchPenalty": "Rater fait mal",
+    "Sandbox_ViewDoctor_BotchPenalty_tooltip": "Un mini-jeu raté annule le soin, ajoute de la douleur et peut rouvrir le saignement.",
+    "Sandbox_ViewDoctor_InstantOnServer": "Soin instantané sur les serveurs",
+    "Sandbox_ViewDoctor_InstantOnServer_tooltip": "Multijoueur uniquement. Désactivé : après le mini-jeu, la durée normale du soin s'écoule encore. Activé : le soin se termine au moment où le mini-jeu se termine. Risqué : le serveur fait confiance au jeu de chaque joueur, un client modifié pourrait donc sauter les durées de soin. En solo, le soin est toujours instantané.",
+    "Sandbox_ViewDoctor_Undress": "Découvrir la zone soignée",
+    "Sandbox_ViewDoctor_Undress_tooltip": "Avant de vous soigner, votre personnage retire les vêtements qui couvrent la blessure et les remet ensuite.",
+    "Sandbox_ViewDoctor_Difficulty_option1": "Facile",
+    "Sandbox_ViewDoctor_Difficulty_option2": "Normal",
+    "Sandbox_ViewDoctor_Difficulty_option3": "Difficile"
+}

@@ -1,0 +1,43 @@
+VERSION = 1,
+
+option ViewDoctor.Enabled
+{
+    type = boolean, default = true,
+    page = ViewDoctor, translation = ViewDoctor_Enabled,
+}
+
+option ViewDoctor.Difficulty
+{
+    type = enum, numValues = 3, default = 2,
+    page = ViewDoctor, translation = ViewDoctor_Difficulty, valueTranslation = ViewDoctor_Difficulty,
+}
+
+option ViewDoctor.TimeLimit
+{
+    type = integer, min = 10, max = 120, default = 30,
+    page = ViewDoctor, translation = ViewDoctor_TimeLimit,
+}
+
+option ViewDoctor.QualityEffects
+{
+    type = boolean, default = true,
+    page = ViewDoctor, translation = ViewDoctor_QualityEffects,
+}
+
+option ViewDoctor.BotchPenalty
+{
+    type = boolean, default = true,
+    page = ViewDoctor, translation = ViewDoctor_BotchPenalty,
+}
+
+option ViewDoctor.InstantOnServer
+{
+    type = boolean, default = false,
+    page = ViewDoctor, translation = ViewDoctor_InstantOnServer,
+}
+
+option ViewDoctor.Undress
+{
+    type = boolean, default = true,
+    page = ViewDoctor, translation = ViewDoctor_Undress,
+}

@@ -1,0 +1,20 @@
+{
+    "Sandbox_ViewDoctor": "ViewDoctor | Health Overhaul for Project Zomboid/Viewpoint",
+    "Sandbox_ViewDoctor_Enabled": "Мини-игры лечения",
+    "Sandbox_ViewDoctor_Enabled_tooltip": "Лечение раны сначала запускает мини-игру. Выключи, чтобы использовать обычные действия.",
+    "Sandbox_ViewDoctor_Difficulty": "Сложность",
+    "Sandbox_ViewDoctor_Difficulty_tooltip": "Насколько малы цели. Навык первой помощи облегчает каждый уровень.",
+    "Sandbox_ViewDoctor_TimeLimit": "Лимит времени мини-игры (секунды)",
+    "Sandbox_ViewDoctor_TimeLimit_tooltip": "Сколько времени до того, как мини-игра закончится с тем, что успел. Пиление и шитьё получают на 30%% больше.",
+    "Sandbox_ViewDoctor_QualityEffects": "Качество важно",
+    "Sandbox_ViewDoctor_QualityEffects_tooltip": "Аккуратная работа меньше болит, быстрее заживает, останавливает кровотечение и редко вызывает заражение. Небрежная работа больше болит, дольше заживает, может не остановить кровотечение, часто вызывает заражение и может оставить в ране стекло или пулю.",
+    "Sandbox_ViewDoctor_BotchPenalty": "Ошибка болит",
+    "Sandbox_ViewDoctor_BotchPenalty_tooltip": "Проваленная мини-игра отменяет лечение, добавляет боли и может открыть кровотечение.",
+    "Sandbox_ViewDoctor_InstantOnServer": "Мгновенное лечение на серверах",
+    "Sandbox_ViewDoctor_InstantOnServer_tooltip": "Только для мультиплеера. Выкл.: после мини-игры по-прежнему идёт обычное время лечения. Вкл.: лечение завершается в тот же момент, что и мини-игра. Рискованно: сервер доверяет игре каждого игрока, поэтому изменённый клиент может пропускать время лечения. В одиночной игре лечение всегда мгновенное.",
+    "Sandbox_ViewDoctor_Undress": "Снимать одежду с места лечения",
+    "Sandbox_ViewDoctor_Undress_tooltip": "Перед лечением самого себя персонаж снимает одежду, закрывающую рану, а после надевает её обратно.",
+    "Sandbox_ViewDoctor_Difficulty_option1": "Легко",
+    "Sandbox_ViewDoctor_Difficulty_option2": "Нормально",
+    "Sandbox_ViewDoctor_Difficulty_option3": "Сложно"
+}
